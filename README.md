@@ -10,6 +10,7 @@ Screens:
 7. Cart Screen
 8. Search Food
 9. Category Screen
+10. Profil Screen
 
 ![Screenshot from 2023-11-24 17-59-08](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/eee560c1-0f03-452f-ac41-ffeac3e2b9fb)
 ![Screenshot from 2023-11-24 17-58-55](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/4f3871d5-bb57-4e2b-bc96-a853ed6d2cc3)
@@ -17,5 +18,4 @@ Screens:
 ![Screenshot from 2023-11-24 17-57-23](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/7b29201f-13cf-4d3a-a141-034bd7ff586b)
 ![Screenshot from 2023-11-24 17-57-07](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/d1a3b91c-c8cd-4a50-8243-de820ca9cb8c)
 ![Screenshot from 2023-11-24 17-55-37](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/db051ff5-f66d-4a5f-8d8d-41490ff787f1)
-![app_image_2](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/ed2e1e85-c547-4764-aa07-5eca29da9230)
-![app_image_1](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/c6f50dec-ee8b-49f7-85c3-3b33ec57735a)
+
