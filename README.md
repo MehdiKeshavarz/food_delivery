@@ -1,16 +1,21 @@
-# food_delivery
+Complete UI Design of Food Delivery App
 
-A new Flutter project.
+Screens:
+1. Splash Screen
+2. OnBoardin Screen
+3. Signin Screen
+4. Singup Screen
+5. Home Screen
+6. Detail Food Screen
+7. Cart Screen
+8. Search Food
+9. Category Screen
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot from 2023-11-24 17-59-08](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/eee560c1-0f03-452f-ac41-ffeac3e2b9fb)
+![Screenshot from 2023-11-24 17-58-55](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/4f3871d5-bb57-4e2b-bc96-a853ed6d2cc3)
+![Screenshot from 2023-11-24 17-57-43](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/a616a345-3a8d-44a0-a62a-05b9691050f7)
+![Screenshot from 2023-11-24 17-57-23](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/7b29201f-13cf-4d3a-a141-034bd7ff586b)
+![Screenshot from 2023-11-24 17-57-07](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/d1a3b91c-c8cd-4a50-8243-de820ca9cb8c)
+![Screenshot from 2023-11-24 17-55-37](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/db051ff5-f66d-4a5f-8d8d-41490ff787f1)
+![app_image_2](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/ed2e1e85-c547-4764-aa07-5eca29da9230)
+![app_image_1](https://github.com/MehdiKeshavarz/food_delivery/assets/94130466/c6f50dec-ee8b-49f7-85c3-3b33ec57735a)
